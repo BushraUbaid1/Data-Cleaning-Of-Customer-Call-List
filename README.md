@@ -25,7 +25,7 @@ Ready to Dive In? Here's How:
 
 Summon the Magic:
 
-Clone the repository and get started: git clone https://github.com/YourUsername/CallListRevitalizer.git.
+
 Brew Your Potions:
 
 Install the magic ingredients with a simple command: pip install -r requirements.txt.
